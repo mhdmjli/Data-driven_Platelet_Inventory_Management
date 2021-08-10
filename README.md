@@ -1,1 +1,1 @@
-# Platelet-Inventory-Management
+# Platelet Inventory Management
