@@ -1,2 +1,2 @@
-# Platelet Inventory Management
+# Data-driven Platelet Inventory Management
 The fixed initial age model is a data-driven approach that can be used to determine the daily platelet ordering quantities for a hospital that procures blood products from a central supplier, and hence the remaining age of the delivered units is subject to uncertainty. The model can be viewed as a linear demand prediction model with the objective of the decision-making problem integrated through the fitness function.
